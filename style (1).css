@@ -1,0 +1,16 @@
+section
+{
+  padding: 40px 15%;
+}
+.contact
+{
+  background: #101010;
+  height: 100%;
+  width: 100%;
+  min-width: 100vh;
+  min-height: 100vh;
+  display: grid;
+  grid-template-columns: repeat(2,2fr);
+  align-items: center;
+  grid-gap: 6rem;
+}
